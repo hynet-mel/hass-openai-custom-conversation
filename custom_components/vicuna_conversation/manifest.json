@@ -8,6 +8,6 @@
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/drndos/hass-openai-custom-conversation/issues",
   "name": "Custom OpenAI Conversation",
-  "requirements": ["openai==0.27.8"],
-  "version": "0.8"
+  "requirements": ["openai==0.28"],
+  "version": "0.8-rev1"
 }
